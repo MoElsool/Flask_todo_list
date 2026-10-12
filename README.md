@@ -72,27 +72,16 @@ Introduction to Database Systems, Alexandria National University, Fall 2026
 
 **Register page with error messages**
 
-![Register with errors](screenshots/register.png)
-
 **Login page**
-
-![Login](screenshots/login.png)
 
 **The list with some to-dos (one done)**
 
-![To-do list](screenshots/todo_list.png)
-
 **Phone-sized window**
-
-![Phone size](screenshots/phone_size.png)
 
 **Extra: validation of a too-long to-do title**
 
-![Title too long](screenshots/validation.png)
-
 **Extra: SQL injection test (`' OR '1'='1` as the login e-mail)**
 
-![SQL injection test](screenshots/sql_injection.png)
 
 ## 6. Answers
 
